@@ -1,4 +1,4 @@
-# amironsoft
+# AppWeb
 Hello world!
 It is some simple app for web automatization.
 It based on Java 8, Firefox, Selenium Web Driver.
